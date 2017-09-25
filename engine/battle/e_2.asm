@@ -12,9 +12,9 @@ HealEffect_: ; 3b9ec (e:79ec)
 	ld b, a
 	ld a, [de]
 	cp [hl]
-	jr nz, .fine
 	inc de
 	inc hl
+	jr nz, .fine
 	ld a, [de]
 	sbc [hl]
 	jp z, .failed
