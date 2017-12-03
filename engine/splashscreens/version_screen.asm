@@ -62,7 +62,7 @@ IF DEF(_BLUE) ; Hard Rom
 ELSE ; Normal Rom
 	db "The Normal Patch", $4E
 ENDC
-	db "Version 2.4.1@"
+	db "Version 2.4.2@"
 
 VersionScreenText2:
 	db "Readme and FAQ", $4E
@@ -73,4 +73,4 @@ VersionScreenText2:
 
 VersionScreenText3:
 	db "Have fun!", $4E
-	db "  - Mateo, 2016@"
+	db "  - Mateo, 2017@"

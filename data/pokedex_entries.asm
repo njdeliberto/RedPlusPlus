@@ -1416,7 +1416,7 @@ PorygonZDexEntry:
 	db "@"
 	
 MagmortarDexEntry:
-	db "ASS@"
+	db "BLAST@"
 	db 5,3
 	dw 1499
 	TX_FAR _MagmortarDexEntry
