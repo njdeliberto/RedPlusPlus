@@ -280,7 +280,7 @@ CharmanderPokeballScript:
 	playsound SFX_CAUGHT_MON
 	waitsfx
 	buttonsound
-	givepoke CHARMANDER, 5, ORAN_BERRY
+	givepoke DRAGONITE, 5, ORAN_BERRY
 	closetext
 	applymovement OAKSLAB_BLUE, Movement_BluePicksSquirtle
 	opentext
@@ -323,7 +323,7 @@ SquirtlePokeballScript:
 	playsound SFX_CAUGHT_MON
 	waitsfx
 	buttonsound
-	givepoke SQUIRTLE, 5, ORAN_BERRY
+	givepoke SCIZOR, 5, ORAN_BERRY
 	closetext
 	applymovement OAKSLAB_BLUE, Movement_BluePicksBulbasaur
 	opentext
@@ -366,7 +366,7 @@ BulbasaurPokeballScript:
 	playsound SFX_CAUGHT_MON
 	waitsfx
 	buttonsound
-	givepoke BULBASAUR, 5, ORAN_BERRY
+	givepoke WEAVILE, 5, ORAN_BERRY
 	closetext
 	applymovement OAKSLAB_BLUE, Movement_BluePicksCharmander
 	opentext
