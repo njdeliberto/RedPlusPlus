@@ -9,7 +9,7 @@
 	dn FEMALE_50, 3 ; gender, step cycles to hatch
 	dn 7, 7 ; frontpic dimensions
 	db PRESSURE ; ability 1
-	db PRESSURE ; ability 2
+	db TECHNICIAN ; ability 2
 	db PICKPOCKET ; hidden ability
 	db MEDIUM_SLOW ; growth rate
 	dn FIELD, FIELD ; egg groups
