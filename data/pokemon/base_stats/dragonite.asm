@@ -9,7 +9,7 @@
 	dn FEMALE_50, 7 ; gender, step cycles to hatch
 	dn 7, 7 ; frontpic dimensions
 	db INNER_FOCUS ; ability 1
-	db INNER_FOCUS ; ability 2
+	db MULTISCALE ; ability 2
 	db MULTISCALE ; hidden ability
 	db SLOW ; growth rate
 	dn AMPHIBIAN, REPTILE ; egg groups
